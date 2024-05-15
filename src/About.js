@@ -31,10 +31,7 @@ const Heading = styled.h1`
 
 
 
-const blinkCaret = keyframes`
-  from, to { border-color: transparent }
-  50% { border-color: orange; }
-`;
+
  
 
 const Paragraph = styled.p`
